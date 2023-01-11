@@ -7,6 +7,7 @@
 import Foundation
 
 
+
 class AppSettings: ObservableObject {                        // any change any screen update
     @Published var currentSubMenu = 1     // colour or fonts
     @Published var currentMenu = 1         // what is the current font???

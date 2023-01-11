@@ -23,6 +23,7 @@ var books : [Table] = [
  
 
     
+    
     Table(title: NSLocalizedString("text1",  comment: ""), imageURL: "1", content:NSLocalizedString("text1c",  comment: "")),
   
     

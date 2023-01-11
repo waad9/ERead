@@ -54,6 +54,7 @@ struct BookContentVC: View {
             .navigationBarItems(leading: btnBack)
     }
 }
+
 struct BookContentVC_Previews: PreviewProvider {
     static var previews: some View {
         let model: Table? = nil

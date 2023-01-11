@@ -130,6 +130,7 @@ struct Icon : View {
     }
 }
 
+
 // Grid struct
 struct GridStack<Content: View>: View {
     let rows: Int

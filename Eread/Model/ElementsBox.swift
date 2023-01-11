@@ -8,6 +8,7 @@
 import Foundation
 
 
+
 struct ElementsBox  {
     var title    : String
     var imageURL : String
