@@ -24,6 +24,7 @@ struct ElementsView : View {
                 VStack{
                     Image(box.imageURL)
                     Text(box.title)
+                        .accessibilityLabel(Text(box.title))
                         .font(.subheadline)
                         .fontWeight(.regular)
                         .foregroundColor(.black)

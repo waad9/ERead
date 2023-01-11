@@ -23,7 +23,6 @@ var books : [Table] = [
  
 
     
-    
     Table(title: NSLocalizedString("text1",  comment: ""), imageURL: "1", content:NSLocalizedString("text1c",  comment: "")),
   
     
@@ -44,6 +43,7 @@ var books2 : [Table] = [
     Table(title: NSLocalizedString("text7",  comment: ""), imageURL: "7", content:NSLocalizedString("text7c",  comment: "")),
     Table(title: NSLocalizedString("text8",  comment: ""), imageURL: "8", content:NSLocalizedString("text8c",  comment: "")),
     Table(title: NSLocalizedString("text9",  comment: ""), imageURL: "9", content:NSLocalizedString("text9c",  comment: "")),
+    
 ]
 
 
