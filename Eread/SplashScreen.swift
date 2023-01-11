@@ -37,6 +37,7 @@ struct SplashScreenView: View {
                     }
                     
                     
+                    
                     VStack{
                         Text("Have You")
                             .font(.custom("Baskerville-Bold", size: 29))

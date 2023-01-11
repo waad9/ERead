@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 @main
 struct EreadApp: App {
     var body: some Scene {

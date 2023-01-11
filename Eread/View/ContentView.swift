@@ -10,7 +10,6 @@
 
 import SwiftUI
 
-
 var elements : [ElementsBox] = [                   //Localizable
     ElementsBox(title: NSLocalizedString("firsttext", comment: "") , imageURL: "Qoutes", id: 0),
     ElementsBox(title: NSLocalizedString("Secondtext", comment: "") , imageURL: "Articals", id: 1),

@@ -9,7 +9,6 @@
 
 import Foundation
 
-
 struct Table {
     var title : String
     var imageURL : String
