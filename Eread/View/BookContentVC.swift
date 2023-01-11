@@ -6,6 +6,7 @@
 //
 import SwiftUI
 
+
 struct BookContentVC: View {
     @EnvironmentObject var appSettings: AppSettings
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
