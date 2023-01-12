@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
- Reading
+
 If you want to do more of something , you have to build it into your routine and as a habit. 
 Also,collaborators make better and problem solvers when  we understand our world  better, and learn new things.Reading is like anything else,
 So  Reading is like anything else.
@@ -61,7 +61,26 @@ Sketch , Xcode
 ## Demo
 
 
+https://user-images.githubusercontent.com/116793239/212031156-5f4b6f62-f1ad-4e7d-96be-c2ad42597045.mp4
+
+
 ## Challenge Summary 
+
+
+
+<img width="959" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٩ في ١١ ٢٠ ١٠ ص" src="https://user-images.githubusercontent.com/116793239/212031241-0002aab5-a869-46f6-adce-91626bd71094.png">
+
+
+References:
+https://exceptionalindividuals.com/about-us/blog/our-top-10-dyslexia-friendly-fonts/
+https://cdn.bdadyslexia.org.uk/uploads/documents/BDA-Style-Guide-2022.pdf?v=1666017053
+https://medium.muz.li/designing-for-dyslexia-4eae67c6b113
+https://medium.muz.li/designing-for-dyslexia-4eae67c6b113
+https://medium.muz.li/designing-for-dyslexia-4eae67c6b113
+https://www.goodreads.com/quotes
+https://www.brainyquote.com
+http://www.youtube.com
+
 
 
 
