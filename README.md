@@ -71,15 +71,29 @@ https://user-images.githubusercontent.com/116793239/212031156-5f4b6f62-f1ad-4e7d
 <img width="959" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٩ في ١١ ٢٠ ١٠ ص" src="https://user-images.githubusercontent.com/116793239/212031241-0002aab5-a869-46f6-adce-91626bd71094.png">
 
 
-References:
+
+
+
+
+# References:
+
+
 https://exceptionalindividuals.com/about-us/blog/our-top-10-dyslexia-friendly-fonts/
+<br>
 https://cdn.bdadyslexia.org.uk/uploads/documents/BDA-Style-Guide-2022.pdf?v=1666017053
+<br>
 https://medium.muz.li/designing-for-dyslexia-4eae67c6b113
-https://medium.muz.li/designing-for-dyslexia-4eae67c6b113
-https://medium.muz.li/designing-for-dyslexia-4eae67c6b113
+<br>
+https://tashkeell.com
+<br>
+https://photodune.net
+<br>
 https://www.goodreads.com/quotes
+<br>
 https://www.brainyquote.com
-http://www.youtube.com
+<br>
+
+
 
 
 
