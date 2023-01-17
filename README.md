@@ -8,9 +8,7 @@
 <tr>
 <td>
 
-If you want to do more of something , you have to build it into your routine and as a habit. 
-Also,collaborators make better and problem solvers when  we understand our world  better, and learn new things.Reading is like anything else,
-So  Reading is like anything else.
+If you want to do more of something , you have to build it into your routine and as a habit. Also,collaborators make better and problem solvers when we understand our world better, and learn new things, So Reading is like anything else.
 
 </td>
 </tr>
